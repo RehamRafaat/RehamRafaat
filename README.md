@@ -9,7 +9,7 @@
 
 <p align="center">  
     <img src="https://img.shields.io/badge/Software-Engineer-purple" alt="RehamRafaat" />
-    <img src="https://img.shields.io/badge/BackEnd-Enthusiast-blue" alt="RehamRafaat" /> 
+    <img src="https://img.shields.io/badge/FrontEnd-Enthusiast-blue" alt="RehamRafaat" /> 
 </p>
 
 - 🌱 I’m currently exploring more on **ReactJs or NextJs** and searching for Job.
